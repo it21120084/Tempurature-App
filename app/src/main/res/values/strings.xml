@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperture Converter</string>
+    <string name = "rbC" >Celsius</string>
+    <string name = "rbF" >Fahrenheit</string>
+    <string name ="btnValue">convert</string>
+</resources>
